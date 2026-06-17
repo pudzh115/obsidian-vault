@@ -23,23 +23,26 @@ Lo-Beam
 
 ### Red Snapper — Prince Blimey
 
->[!info|left]
+>[!Prince Blimey|left]
 >![](Pastedimage20260615152836.png)
->### Main
->| | | |
->|:-----|:-----|
->|Artist|Red Snapper| 
->|Release|Prince Blimey| 
->|Type|Album| 
->
->### Genres
->Acid Jazz, Trip Hop
+>### Список треков
+>| № | название | длина |
+>|:---|:---|:---|
+>| 1. | Crusoe Takes a Trip | 6: 39 |
 
 >[!rate|left]
 >RYM 3.51/5
 >P115 4.5/5
 >Источники:
 >[RYM]((https://rateyourmusic.com/release/album/red-snapper/prince-blimey/))
+
+### Мета
+| | | |
+|:-----|:-----|
+| Artist | Red Snapper | 
+| Release | Prince Blimey | 
+| Type | Album |
+| Genres | Acid Jazz, Trip Hop |
 
 Один из лучших, если не лучший, альбом в жанре _Acid Jazz_. Альбом который я регулярно переслушиваю с 2020-ого года. И с каждым разом он становиться только лучше.  
 Это хороший пример каким должен быть часовой альбом: нет затянутых 20-минутных композиции, долгих проигрышей или пустых скитов. Есть как хэдбенгеры так и интерлюдии, благодаря чему альбом не надоедает при прослушивании .  
