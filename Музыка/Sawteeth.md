@@ -1,6 +1,6 @@
-### Sawteeth — 東風
+### Sawteeth — 東風 (2026)
 ```horizontal
-![[Pasted image 20260615155836.png|148]]
+![a|100](https://cdn.sonemic.net/i/600/w/8e43dbc353559896f4d4307e22f541c6/14382506/sawteeth-%E6%9D%B1%E9%A2%A8-cover-art.png)
 [RYM]((https://rateyourmusic.com/release/album/sawteeth/%E6%9D%B1%E9%A2%A8/)) 3.51/5
 P115 4.0/5
 ---

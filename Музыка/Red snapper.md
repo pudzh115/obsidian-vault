@@ -1,6 +1,6 @@
-### Red snapper — Prince Blimey
+### Red snapper — Prince Blimey (1996)
 ```horizontal
->![ https://cdn.sonemic.net/i/600/w/b399d6d0157901106caca4b5b2397a16/3282016/red-snapper-prince-blimey-Cover-Art.jpg ]
+![абложка|100](https://cdn.sonemic.net/i/600/w/b399d6d0157901106caca4b5b2397a16/3282016/red-snapper-prince-blimey-Cover-Art.jpg)
 
 [RYM]((https://rateyourmusic.com/release/album/red-snapper/prince-blimey/)) 3.51/5
 P115 4.5/5
