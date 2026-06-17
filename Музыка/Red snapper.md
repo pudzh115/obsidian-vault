@@ -1,6 +1,7 @@
 ### Red snapper — Prince Blimey
 ```horizontal
-![[Pastedimage20260615152836.png]]
+>![ https://cdn.sonemic.net/i/600/w/b399d6d0157901106caca4b5b2397a16/3282016/red-snapper-prince-blimey-Cover-Art.jpg ]
+
 [RYM]((https://rateyourmusic.com/release/album/red-snapper/prince-blimey/)) 3.51/5
 P115 4.5/5
 ---
@@ -20,42 +21,3 @@ Fatboy's Dust
 Gridlock  
 Lo-Beam
 ```
-
-### Red Snapper — Prince Blimey
-
->[!Prince Blimey|left]
->![](Pastedimage20260615152836.png)
->### Список треков
->| № | название | длина |
->|:---|:---|:---|
->| 1. | Crusoe Takes a Trip | 6: 39 |
-
->[!rate|left]
->RYM 3.51/5
->P115 4.5/5
->Источники:
->[RYM]((https://rateyourmusic.com/release/album/red-snapper/prince-blimey/))
-
-### Мета
-| | | |
-|:-----|:-----|
-| Artist | Red Snapper | 
-| Release | Prince Blimey | 
-| Type | Album |
-| Genres | Acid Jazz, Trip Hop |
-
-Один из лучших, если не лучший, альбом в жанре _Acid Jazz_. Альбом который я регулярно переслушиваю с 2020-ого года. И с каждым разом он становиться только лучше.  
-Это хороший пример каким должен быть часовой альбом: нет затянутых 20-минутных композиции, долгих проигрышей или пустых скитов. Есть как хэдбенгеры так и интерлюдии, благодаря чему альбом не надоедает при прослушивании .  
-  
-Самое важное в Prince Blimey это атмосфера  
-Мечтательный, сонный, тёмный, мистический и потусторонний.  
-Причём радует структура альбома которая плавно проведёт вас от психоделического припадка на  
-_Crusoe Takes a Trip_ и до абсолютно умиротворяющего _Lo-Beam_, который звучит так как звучал бы рассвет после самой тёмной ночи.  
-Описать опыт прослушивания словами очень сложно — тем не менее — это опыт, который я вам настойчиво рекомендую.  
-  
-**Любимые треки**  
-Crusoe Takes a Trip  
-Thomas the Fib  
-Fatboy's Dust  
-Gridlock  
-Lo-Beam
