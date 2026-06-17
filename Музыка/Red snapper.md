@@ -22,18 +22,20 @@ Lo-Beam
 ```
 
 ### Red Snapper — Prince Blimey
-![right](Pastedimage20260615152836.png)
->[!info|right]
->### Main
->|---|---|---|
->|Artist|Red Snapper|
->|Release|Prince Blimey|
->|Type|Album|
->|---|---|---|
->### Genres
->Acid Jazz, Trip Hop'
 
->[!rate|right]
+>[!info|left]
+>![](Pastedimage20260615152836.png)
+>### Main
+>| | | |
+>|:-----|:-----|
+>|Artist|Red Snapper| 
+>|Release|Prince Blimey| 
+>|Type|Album| 
+>
+>### Genres
+>Acid Jazz, Trip Hop
+
+>[!rate|left]
 >RYM 3.51/5
 >P115 4.5/5
 >Источники:
