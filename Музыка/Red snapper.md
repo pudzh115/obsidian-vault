@@ -20,18 +20,3 @@ Fatboy's Dust
 Gridlock  
 Lo-Beam
 ```
-
-
->[!info]
->fdsfjdspfkpdsf
->fdsaf
-
-```infobox
---- залупа ---
-# аавыпфыап
-+ fdsdfsd
-- fdsf
---- пенис ---
-авыаыва
- 
-```
