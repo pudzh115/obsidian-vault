@@ -1,5 +1,9 @@
 ### Kenny Beats — LOUIE
-``` hblocks
-![абложка|240](https://cdn.sonemic.net/i/600/w/90aa0b7033ed60cfc4ae889bd0fd7234/10228565/kenny-beats-louie-Cover-Art.jpg)
+``` horizontal
+![абложка|100](https://cdn.sonemic.net/i/600/w/90aa0b7033ed60cfc4ae889bd0fd7234/10228565/kenny-beats-louie-Cover-Art.jpg)
+---
+**lo-fi девочка сдала экзамены и вышла на улицу.**
+
+Впервые с кенни битз я познакомился после прослушивания *Denzel Curry — Unlock* и уже тогда он меня впечатлил насколько многогранный звук он может создовать, чувствовалась и влияние Канье и MF DOOM'а как битмейкера 
 ```
-```
+
