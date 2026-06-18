@@ -1,6 +1,8 @@
 ### Kenny Beats — LOUIE (2022)
 ``` horizontal
 ![абложка|100](https://cdn.sonemic.net/i/600/w/90aa0b7033ed60cfc4ae889bd0fd7234/10228565/kenny-beats-louie-Cover-Art.jpg)
+[RYM]((https://rateyourmusic.com/release/album/kenny-beats/louie/)) 3.50 / 5
+P115 4.5 / 5
 ---
 **lo-fi девочка сдала экзамены и вышла на улицу.**
 
@@ -12,6 +14,6 @@
 *So thay say* — Чарующие откровение, доброе завораживующие с люгкой ноткой грусти;
 *Drop 10* — звучит как что-то средние меж рекламным рингтоном и потереным битом J Dilla. 
 
-Реально достойный внемания релиз, который я уверен мы ещё будем вспоминать через года где-то рядом с Nujabes — Modal Soul и Metal Fingers — 
+Реально достойный внемания релиз, который я уверен мы ещё будем вспоминать через года где-то рядом с Nujabes — Modal Soul и Metal Fingers — Special Herbs.
 ```
 
